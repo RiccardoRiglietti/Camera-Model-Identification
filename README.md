@@ -17,7 +17,7 @@ Validation accuracy:
 
 - "BondiNet": 30.4%
 - "BondiNet" + OneVsRest SVM: 35.1%
-- "BondiNet" + OneVsRest SVM: 67.9%
+- "BondiNet" + OneVsRest SVM: 36.7%
 - EfficientNetB1 finetuned: 67.9 %
 
 The confusion matrices of the various approaches can be seen in the output cells of the Jupyter notebook.
